@@ -1,5 +1,5 @@
 # Profile
-T.Hori(@beatdjam)  
+T.Hori([@beaTeck](https://twitter.com/beaTeck))  
 http://beatdjam.hatenablog.com/  
 
 ## Role
