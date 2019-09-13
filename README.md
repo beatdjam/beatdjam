@@ -1,7 +1,10 @@
 # Profile
 T.Hori([@beaTeck](https://twitter.com/beaTeck))  
-:house: https://blog.beatdjam.com/  
-:octocat: https://github.com/beatdjam
+ブログ https://blog.beatdjam.com/  
+Github https://github.com/beatdjam  
+自己紹介 https://beatdjam.github.io/Profile/  
+Speaker Deck https://speakerdeck.com/beatdjam  
+
 
 ## Role
 * Server Side Engineer ( For Smart Phone App)
