@@ -13,9 +13,9 @@ Speaker Deck https://speakerdeck.com/beatdjam
 ## Skill
 ### Main
 * **Server Side Kotlin(2018/05〜)**  
-既存システムに導入、運用2件。(2018/05〜)    
-Java8 + GroovyをJava + Kotlinでフルリプレース1件。(2018/09〜2019/04) 
-Java8 + GroovyをJava + Kotlinでリプレース進行中。(2019/04〜)  
+既存システムに導入、運用(2018/05〜)    
+Java8 + GroovyをJava + Kotlinでリニューアル。(2018/09〜2019/04)  
+Java8 + GroovyをJava + Kotlinでリプレース 進行中。(2019/04〜)  
 * **Java EE(2015/01〜)**  
 Java 1.4〜6の証券・共済系業務システム保守・改修。(2015/01〜2017/12)  
 Java8(+Jersey)のWebシステム・アプリサーバ開発。(2018/01〜)  
@@ -34,7 +34,6 @@ PHP5.3(+ZendFramework 1.x系)にてWebシステム開発(2013/08〜2014/04)
     CRUD一通りのクエリを種々のシステムで利用(2013/08〜2017/12)
 
 ## Character
-
 ### About
 * **環境への対応が柔軟**  
 新卒の2013年から2017年までは客先に常駐し、部署をまたいで割り当てられる開発アイテムに対応していたため、  
