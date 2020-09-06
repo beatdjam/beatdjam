@@ -19,7 +19,7 @@ Java8 + GroovyをJava + Kotlinでリプレース 進行中。(2019/04〜)
 * **Java EE(2015/01〜)**  
 Java 1.4〜6の証券・共済系業務システム保守・改修。(2015/01〜2017/12)  
 Java8(+Jersey)のWebシステム・アプリサーバ開発。(2018/01〜)  
-* **JavaScript/CSS**
+* **JavaScript/CSS**  
 jQuery+CSS3のWebサイト開発(モダンなフレームワークの経験は少ないです)  
 
 ### Other
