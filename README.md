@@ -4,7 +4,6 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
 Github https://github.com/beatdjam  
 Speaker Deck https://speakerdeck.com/beatdjam  
 
-
 ## Role
 * Server Side Engineer ( For Smart Phone App)
 * Web Engineer
@@ -14,7 +13,7 @@ Speaker Deck https://speakerdeck.com/beatdjam
 * **Server Side Kotlin(2018/05〜)**  
 既存システムに導入、運用(2018/05〜)    
 Java8 + GroovyをJava + Kotlinでリニューアル。(2018/09〜2019/04)  
-Java8 + GroovyをJava + Kotlinでリプレース 進行中。(2019/04〜)  
+Java8 + GroovyをJava + Kotlinでリプレース/保守・回収 (2019/04〜)  
 * **Java EE(2015/01〜)**  
 Java 1.4〜6の証券・共済系業務システム保守・改修。(2015/01〜2017/12)  
 Java8(+Jersey)のWebシステム・アプリサーバ開発。(2018/01〜)  
@@ -29,7 +28,7 @@ PHP5.3(+ZendFramework 1.x系)にてWebシステム開発(2013/08〜2014/04)
 * **DB**  
   * **Oracle**  
     共済会社向けシステム用ストアドプロシージャ開発(2017/08〜2017/12)
-  * **SQL Server**  
+  * **SQL Server/MySQL**  
     CRUD一通りのクエリを種々のシステムで利用(2013/08〜2017/12)
 
 ## Character
@@ -47,9 +46,8 @@ PHP5.3(+ZendFramework 1.x系)にてWebシステム開発(2013/08〜2014/04)
 
 ### Hobby
 #### ゲーム
-* BFやPlanetSideなどの大規模FPSが好きです
-* 最近はよくボーダーブレイクをプレイしています
-* 格闘ゲームも好きです
+* FPSや格闘ゲーム、FF14などをプレイしています
+* 最近はもっぱら積みゲー崩しばかりです。
 
 #### 映画鑑賞
 SFとかファンタジーが好きです。  
@@ -60,7 +58,7 @@ SFとかファンタジーが好きです。
 
 #### 情報収集
 その時興味があることなら何でも調べます。  
-技術的な話題から歴史、比較言語学などの雑学的な知識までなんにでも興味を持ちます。  
+技術的な話題から歴史、比較言語学・交通やドボクなどの雑学的な知識までなんにでも興味を持ちます。  
 知らない分野の話を聞くのが大好きなのでいろいろ教えてください。  
 
 ### Etc
