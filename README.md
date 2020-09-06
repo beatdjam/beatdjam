@@ -2,7 +2,6 @@
 T.Hori([@beaTeck](https://twitter.com/beaTeck))  
 ブログ https://blog.beatdjam.com/  
 Github https://github.com/beatdjam  
-自己紹介 https://beatdjam.github.io/Profile/  
 Speaker Deck https://speakerdeck.com/beatdjam  
 
 
