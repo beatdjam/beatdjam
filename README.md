@@ -13,6 +13,7 @@ Speaker Deck https://speakerdeck.com/beatdjam
 * Kotlin
 * Java
     * Androidの経験はなく、サーバーサイドのみです
+    * Jerseyをフレームワークとして利用することが多かったです
     * Java8以降を書いていた期間よりKotlinを書いていた期間の方が長いです
     * 主にJavaで書かれたシステムをKotlin化したり別システムとして作り直していました
 * MySQL
@@ -21,10 +22,12 @@ Speaker Deck https://speakerdeck.com/beatdjam
 
 ### その他
 * Go
+    * 業務で少し触った程度です
 * Python
     * 業務で少し触った程度です
-* JavaScript(+jQuery)
-* CSS3
+    * Responder
+    * SQLAlchemy
+* JavaScript(+jQuery) / CSS3
     * 数年実装経験がありますが、主として対応した期間は少ないです
 * Oracle
     * ストアドプロシージャの実装のみ行いました
@@ -40,21 +43,20 @@ Speaker Deck https://speakerdeck.com/beatdjam
 ## 経歴
 * (2021/04〜) 広告配信Webサービス 開発・運用
     * Python 3.7
-        * Responder
-        * SQLAlchemy
 * (2021/01〜2021/03) アプリ サーバーサイド リプレイス
-    * Java8(+Jersey) → Go
+    * Java8 → Go
+    * MySQL
 * (2019/04〜2021/03) 国内旅行向けアプリ サーバーサイド開発・運用
     * Java8 + Groovy → Java + Kotlinでリプレイス
+    * MySQL
 * (2018/09〜2019/04) インバウンド向け旅行アプリ フルリニューアル サーバーサイド開発
     * Java8 + GroovyをJava + Kotlinでリニューアル
+    * MySQL
 * (2018/04〜2018/09) 海外乗り換え検索サービス Web/サーバーサイド開発・運用
     * Java8
     * Kotlin
-        * Jersey
 * (2018/01〜2018/03) 旅行系Webサイト 開発・運用 
     * Java8
-        * Jersey 
     * jQuery
     * CSS3  
 
@@ -67,8 +69,7 @@ Speaker Deck https://speakerdeck.com/beatdjam
     * Access + Excel VBA
     * SQL Server 2012
 * (2013/08〜2014/04) 確定拠出年金 会員向けWebシステム開発
-    * PHP5.3
-        * ZendFramework 1.x系
+    * PHP5.3(ZendFramework 1.x系)
     * SQL Server 2008 R2
     * jQuery
     * CSS3
