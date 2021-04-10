@@ -45,9 +45,12 @@ Speaker Deck https://speakerdeck.com/beatdjam
     * Python 3.7
 * (2021/01〜2021/03) アプリ サーバーサイド リプレイス
     * Java8 → Go
+    * Lambda
+    * Oracle
     * MySQL
 * (2019/04〜2021/03) 国内旅行向けアプリ サーバーサイド開発・運用
     * Java8 + Groovy → Java + Kotlinでリプレイス
+    * Oracle
     * MySQL
 * (2018/09〜2019/04) インバウンド向け旅行アプリ フルリニューアル サーバーサイド開発
     * Java8 + GroovyをJava + Kotlinでリニューアル
