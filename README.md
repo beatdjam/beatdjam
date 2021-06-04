@@ -1,8 +1,8 @@
 # Profile
 T.Hori([@beaTeck](https://twitter.com/beaTeck))  
-ブログ https://blog.beatdjam.com/  
-Github https://github.com/beatdjam  
-Speaker Deck https://speakerdeck.com/beatdjam  
+[ブログ](https://blog.beatdjam.com/)  
+[Github](https://github.com/beatdjam)  
+[Speaker Deck](https://speakerdeck.com/beatdjam)  
 
 ## 主な経験職種
 * Server Side Engineer (For Smart Phone App)
