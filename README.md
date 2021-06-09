@@ -46,6 +46,8 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
 
 * (2021/04〜2021/06) 広告配信Webサービス 開発・運用
     * Python 3.7
+    * Node.js(+JavaScript)
+    * Vue.js(+TypeScript)
 * (2021/01〜2021/03) アプリ サーバーサイド リプレイス
     * Java8 → Go
     * Lambda
