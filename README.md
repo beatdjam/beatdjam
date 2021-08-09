@@ -41,7 +41,7 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
     * 今後業務で利用したいとは思っていません
 
 ## 経歴
-* (2021/04〜2021/07) Webアプリケーション(SPA/API) 開発・運用
+* (2021/07〜) Webアプリケーション(SPA/API) 開発・運用
    * Scala(PlayFramework2)
       * Slick 
    * AngularJS/Angular(+TypeScript)
