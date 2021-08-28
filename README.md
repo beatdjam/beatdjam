@@ -25,8 +25,6 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
     * 業務で少し触った程度です
 * Python
     * 業務で少し触った程度です
-    * Responder
-    * SQLAlchemy
 * JavaScript(+jQuery) / CSS3
     * 数年実装経験がありますが、主として対応した期間は少ないです
 * Oracle
@@ -50,6 +48,8 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
 
 * (2021/04〜2021/06) 広告配信Webサービス 開発・運用
     * Python 3.7
+       * Responder
+       * SQLAlchemy
     * Node.js(+JavaScript)
     * Vue.js(+TypeScript)
 * (2021/01〜2021/03) アプリ サーバーサイド リプレイス
