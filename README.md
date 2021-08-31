@@ -39,53 +39,21 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
     * 今後業務で利用したいとは思っていません
 
 ## 経歴
-* (2021/07〜) Webアプリケーション(SPA/API) 開発・運用
-   * Scala(PlayFramework2)
-      * Slick 
-   * AngularJS/Angular(+TypeScript)
-
-**(2021/07)転職**  
-
-* (2021/04〜2021/06) 広告配信Webサービス 開発・運用
-    * Python 3.7
-       * Responder
-       * SQLAlchemy
-    * Node.js(+JavaScript)
-    * Vue.js(+TypeScript)
-* (2021/01〜2021/03) アプリ サーバーサイド リプレイス
-    * Java8 → Go
-    * Lambda
-    * Oracle
-    * MySQL
-* (2019/04〜2021/03) 国内旅行向けアプリ サーバーサイド開発・運用
-    * Java8 + Groovy → Java + Kotlinでリプレイス
-    * Oracle
-    * MySQL
-* (2018/09〜2019/04) インバウンド向け旅行アプリ フルリニューアル サーバーサイド開発
-    * Java8 + GroovyをJava + Kotlinでリニューアル
-    * MySQL
-* (2018/04〜2018/09) 海外乗り換え検索サービス Web/サーバーサイド開発・運用
-    * Java8
-    * Kotlin
-* (2018/01〜2018/03) 旅行系Webサイト 開発・運用 
-    * Java8
-    * jQuery
-    * CSS3  
-
-**(2018/01)転職**  
-
-* (2017/08〜2017/12) 共済会社向けシステム用ストアドプロシージャ開発
-    * Oracle10g
-* (2015/01〜2017/12) 証券・共済系業務システム保守・改修
-    * Java 1.4〜6 
-* (2014/05〜2014/12) 証券会社向けファンド運用シミュレーションツール開発
-    * Access + Excel VBA
-    * SQL Server 2012
-* (2013/08〜2014/04) 確定拠出年金 会員向けWebシステム開発
-    * PHP5.3(ZendFramework 1.x系)
-    * SQL Server 2008 R2
-    * jQuery
-    * CSS3
+| 期間             | プロジェクト                                                   | 技術                                                                                                   | 
+| ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | 
+| 2021/07〜        | Webアプリケーション(SPA/API) 開発・運用                        | Scala<br>- PlayFramework2<br>- Slick<br>TypeScript<br>- AngularJS<br>- Angular                     | 
+| 2021/07          | 転職                                                           |                                                                                                        | 
+| 2021/04〜2021/06 | 広告配信Webサービス 開発・運用                                 | Python 3.7<br>- Responder<br>- SQLAlchemy<br>JavaScript<br>- Node.js<br>TypeScript<br>- Vue.js | 
+| 2021/01〜2021/03 | アプリ サーバーサイド リプレイス                               | Java8からGoへリプレイス<br>Lambda<br>Oracle<br>MySQL                                       | 
+| 2019/04〜2021/03 | 国内旅行向けアプリ サーバーサイド開発・運用                    | Java8 + Groovy <br>→ Java + Kotlinでリプレイス<br>- Jersey<br>Oracle<br>MySQL                     | 
+| 2018/09〜2019/04 | インバウンド向け旅行アプリ フルリニューアル サーバーサイド開発 | Java8 + Groovy <br>→ Java + Kotlinでリプレイス<br>- Jersey<br>MySQL                               | 
+| 2018/04〜2018/09 | 海外乗り換え検索サービス Web/サーバーサイド開発・運用          | Java + Kotlin<br>- Jersey                                                                              | 
+| 2018/01〜2018/03 | 旅行メディアWebサイト 開発・運用                               | Java8<br>- Jersey<br>JavaScript<br>- jQuery<br>CSS3                                            | 
+| 2018/01          | 転職                                                           |                                                                                                        | 
+| 2017/08〜2017/12 | 共済会社向けシステム用ストアドプロシージャ開発                 | Oracle10g                                                                                              | 
+| 2015/01〜2017/12 | 証券・共済系業務システム保守・改修                             | Java 1.4<br>Java 6<br>- Enterprise JavaBeans                                                           | 
+| 2014/05〜2014/12 | 証券会社向けファンド運用シミュレーションツール開発             | VBA<br>- Access + Excel <br>SQL Server 2012                                                        | 
+| 2013/08〜2014/04 | 確定拠出年金 会員向けWebシステム開発                           | PHP5.3<br>- ZendFramework 1.x系<br>SQL Server 2008 R2<br>JavaScript<br>- jQuery<br>CSS3    |
 
 ## 自己紹介
 ### 特徴
