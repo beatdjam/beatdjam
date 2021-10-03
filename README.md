@@ -11,6 +11,7 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
 ## 技術
 ### 現在扱っているもの
 * Scala
+   * PlayFramework2
 * TypeScript
    * Angular/AngularJS 
 
@@ -42,6 +43,7 @@ T.Hori([@beaTeck](https://twitter.com/beaTeck))
    * 今後業務で利用したいとは思っていません
 
 ## 経歴
+
 | 期間             | プロジェクト                                                   | 技術                                                                                                   | 
 | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | 
 | 2021/07〜        | Webアプリケーション(SPA/API) 開発・運用                        | Scala<br>- PlayFramework2<br>- Slick<br>TypeScript<br>- AngularJS<br>- Angular                     | 
