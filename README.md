@@ -1,5 +1,5 @@
 # Profile
-![](https://komarev.com/ghpvc/?username=beatdjam&color=3a8daa)
+<!-- ![](https://komarev.com/ghpvc/?username=beatdjam&color=3a8daa) -->
 [<img src="https://img.shields.io/twitter/follow/beaTeck?style=social">](https://twitter.com/beateck)
 [<img src="https://img.shields.io/badge/Blog--blue?style=social&logo=data:image/png;base64,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">](https://blog.beatdjam.com/)
 [<img src="https://img.shields.io/badge/Slide--blue?style=social&logo=speakerdeck">](https://speakerdeck.com/beatdjam)  
@@ -10,39 +10,27 @@
 * Server Side Engineer (For Smart Phone App)
 * Web Engineer
 
-## 技術
-### 現在扱っているもの
-* Scala
-   * PlayFramework2
-* TypeScript
-   * Angular/AngularJS 
+## Currentry Using
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 過去に主に扱っていたもの
-* Java/Kotlin
-   * サーバーサイド・Webのみです
-      * Jerseyをフレームワークとして利用することが多かったです
-   * Java8以降を書いていた期間よりKotlinを書いていた期間の方が長いです
-   * 主にJavaで書かれたシステムをKotlin化したり別システムとして作り直していました
-* MySQL
-   * テーブル設計から操作まで触ったことはあります
-   * 専門ではないため深い知識は有りません
+## Recently Used
+![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-### その他
-* Go
-   * 業務で少し触った程度です
-* Python
-   * 業務で少し触った程度です
-* JavaScript(+jQuery) / CSS3
-   * 数年実装経験がありますが、主として対応した期間は少ないです
-* Oracle
-   * ストアドプロシージャの実装のみ行いました
-* SQLServer
-   * テーブル設計から操作まで触ったことはあります
-   * かなり昔のため近年のバージョンはキャッチアップできていません
-* PHP
-   * 業務では5.3以来触れていないため近年のバージョンはキャッチアップできていません
-* VBA
-   * 今後業務で利用したいとは思っていません
+## Others
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+![VBA](https://img.shields.io/badg
 
 ## 経歴
 
