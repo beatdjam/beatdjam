@@ -7,8 +7,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatdjam&theme=tokyonight&layout=compact)
 
 ## Role
-* Server Side Engineer (For Smart Phone App)
-* Web Engineer
+* Server Side Developer for Mobile App
+* Web Developer
 
 ## Currentry Using
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
