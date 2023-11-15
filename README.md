@@ -10,15 +10,20 @@
 * Web Developer
 
 ## Currentry Using
-![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Recently Used
+![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
 ## Others
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -35,7 +40,9 @@
 
 | 期間             | プロジェクト                                                   | 技術                                                                                                   | 
 | ---------------- | -------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | 
-| 2021/07〜        | Webアプリケーション(SPA/API) 開発・運用                        | Scala<br>- PlayFramework2<br>- Slick<br>TypeScript<br>- AngularJS<br>- Angular                     | 
+| 2023/05〜        | Webアプリケーション(SPA/API) 開発・運用                        | Java<br>- Spring Boot<br>JavaScript<br>- Closure Tools<br>TypeScript<br>- React                     | 
+| 2023/05          | 転職                                                           |                                                                                                        | 
+| 2021/07〜2023/05 | Webアプリケーション(SPA/API) 開発・運用                        | Scala<br>- PlayFramework2<br>- Slick<br>TypeScript<br>- AngularJS<br>- Angular                     | 
 | 2021/07          | 転職                                                           |                                                                                                        | 
 | 2021/04〜2021/06 | 広告配信Webサービス 開発・運用                                 | Python 3.7<br>- Responder<br>- SQLAlchemy<br>JavaScript<br>- Node.js<br>TypeScript<br>- Vue.js | 
 | 2021/01〜2021/03 | アプリ サーバーサイド リプレイス                               | Java8からGoへリプレイス<br>Lambda<br>Oracle<br>MySQL                                       | 
@@ -71,5 +78,5 @@
 * 技術から雑学まで情報を集めることが好きです
 
 ### その他
-* 2013年夏頃から学習内容などをブログにアウトプットしており、累計７０万PVを達成しました。  
+* 2013年夏頃から学習内容などをブログにアウトプットしており、累計8０万PVを達成しました。  
 * TwitterのDMを開放しています。何か有りましたら気軽にお声がけください。
