@@ -43,7 +43,7 @@
 | 2021/07〜2023/05 | 採用管理SaaS Webアプリケーション(SPA/API) 開発・運用           | Scala<br>- PlayFramework2<br>- Slick<br>TypeScript<br>- AngularJS<br>- Angular                     |
 | 2021/07          | 転職                                                           |                                                                                                        |
 | 2021/04〜2021/06 | 広告配信Webサービス 開発・運用                                 | Python 3.7<br>- Responder<br>- SQLAlchemy<br>JavaScript<br>- Node.js<br>TypeScript<br>- Vue.js |
-| 2021/01〜2021/03 | アプリ サーバーサイド リプレイス                               | Java8からGoへリプレイス<br>Lambda<br>Oracle<br>MySQL                                       |
+| 2021/01〜2021/03 | ナビゲーションアプリ サーバーサイド リプレイス                               | Java8からGoへリプレイス<br>Lambda<br>Oracle<br>MySQL                                       |
 | 2019/04〜2021/03 | 国内旅行向けアプリ サーバーサイド開発・運用                    | Java8 + Groovy <br>→ Java + Kotlinでリプレイス<br>- Jersey<br>Oracle<br>MySQL                     |
 | 2018/09〜2019/04 | インバウンド向け旅行アプリ フルリニューアル サーバーサイド開発 | Java8 + Groovy <br>→ Java + Kotlinでリプレイス<br>- Jersey<br>MySQL                               |
 | 2018/04〜2018/09 | 海外乗り換え検索サービス Web/サーバーサイド開発・運用          | Java + Kotlin<br>- Jersey                                                                              |
